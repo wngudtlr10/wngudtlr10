@@ -2,6 +2,8 @@
 ## HELLOWORLD!
 
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/naver-red?style=flat&logo=naver&logoColor=red"/>
+
 
 <!--
 **wngudtlr10/wngudtlr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
