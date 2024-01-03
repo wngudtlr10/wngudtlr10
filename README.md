@@ -3,6 +3,8 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=the4614)](https://solved.ac/the4614)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngudtlr10&show_icons=true&theme=radical)
+
 <br/>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/naver-red?style=flat&logo=naver&logoColor=red"/>
