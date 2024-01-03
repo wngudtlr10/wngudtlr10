@@ -30,11 +30,12 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<!-- github stats --> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngudtlr10&show_icons=true&theme=radical)
+<br/>
 
 <!-- 백준 등급 --> 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=the4614)](https://solved.ac/the4614)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=the4614)](https://solved.ac/the4614)  <!-- github stats --> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wngudtlr10&show_icons=true&theme=radical)
+
 
 
 
