@@ -2,7 +2,7 @@
 ## HELLOWORLD!
 
 <!-- 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm HyeongSik!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20I'm HyeongSik!&fontSize=90" />
 
 <!-- Hits 방문자 수 --> 
 <p align="center">
